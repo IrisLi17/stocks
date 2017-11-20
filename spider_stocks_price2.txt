@@ -1,0 +1,16 @@
+501000	Unknown
+501001	Unknown
+501002	Unknown
+501003	Unknown
+501005	0.99
+501007	Unknown
+501008	Unknown
+501009	Unknown
+501010	Unknown
+501011	Unknown
+501012	Unknown
+501015	0.94
+501018	Unknown
+501000	1.24
+501001	1.09
+501002	Unknown
